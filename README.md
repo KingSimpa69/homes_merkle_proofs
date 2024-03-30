@@ -1,0 +1,7 @@
+**Phase 1**
+
+Merkle root: `0x6a482856e0cdbbd8c07c4d59fdbd3944eb3d9c671fa55be9a98aa71386c47607`
+
+**Phase 2**
+
+Merkle root: `0xf1cad3118b6e566473abd8e2744b14391130f468927c805c7712035301b24a93`
