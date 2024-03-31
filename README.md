@@ -1,6 +1,6 @@
 **Phase 1**
 
-Merkle root: `0x672f442a79bfd65c574ff04823b7cc3767fe4dd3a7af7eca26f0578968739b56`
+Merkle root: `0x60414eaf370df3bb9810253db2898d489b840bb1d3d14bf20d6bfc1e6402ecef`
 
 **Phase 2**
 
